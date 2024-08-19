@@ -1,0 +1,12 @@
+langchain_community==0.2.12
+langchain_openai==0.1.22
+pandas==2.2.2
+python_igraph==0.11.6
+rank_bm25==0.2.2
+sentence_transformers==3.0.1
+torch==2.4.0
+tqdm==4.66.5
+transformers==4.44.0
+vllm==0.5.4
+accelerate==0.33.0
+jmespath==1.0.1
